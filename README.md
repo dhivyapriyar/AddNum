@@ -3,31 +3,31 @@
 To develop an Android application that accepts two numbers from the user and displays their sum.
 ## Algorithm:
 
-1. Start the program.
+  1. Start the program.
 
-2. Open Android Studio and create a new project.
+  2. Open Android Studio and create a new project.
 
-3.Design the layout with:
+  3.Design the layout with:
 
-  i)Two EditText fields for number input.
+    i)Two EditText fields for number input.
 
-  ii)One Button to perform addition.
+    ii)One Button to perform addition.
 
-  iii)One TextView to display the result.
+    iii)One TextView to display the result.
 
-4. In the MainActivity.java file:
+  4. In the MainActivity.java file:
 
-  i)Retrieve input values from the EditText fields.
+    i)Retrieve input values from the EditText fields.
 
-  ii)Convert the inputs to integers.
+    ii)Convert the inputs to integers.
 
-  iii)Perform addition of the two numbers.
+    iii)Perform addition of the two numbers.
 
-  iv)Display the result in the TextView.
+    iv)Display the result in the TextView.
 
-5. Run the application on an emulator or real device.
+  5. Run the application on an emulator or real device.
 
-6. Stop the program.
+  6. Stop the program.
 
 ## Program:
 ```
